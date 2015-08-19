@@ -14,8 +14,6 @@ Job_Scheduler::Job_Scheduler(){
     system("clear");
     cout<<"\n\n\n"
     <<"Created by: Mohammad Butt\n"
-    <<"Course: Operating Systems\n"
-    <<"Professor: Anatoly Gordonov\n"
     <<"Date created: April 11, 2015\n\n"
     <<"<---------------- JOB SCHEDULING SYSTEM --------------->\n\n"
     <<"This program allows a user to simulate these job scheduling algorithms:\n"
